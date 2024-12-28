@@ -10,3 +10,9 @@ Advantages of Statement-based Replication :-
 2. There is less space taken up in the update logs.
 3. There is no need to deal with the row format.
 4. Also, auditing the database is easy, because statements that made any changes to the data are all logged in the binary log.
+
+
+
+**References :- **
+
+https://www.ovaistariq.net/statement-based-vs-row-based-replication/
